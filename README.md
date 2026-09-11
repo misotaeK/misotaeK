@@ -36,5 +36,4 @@ Final-year Information Technology student at Eastern Mediterranean University.
 
 ## Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:su_kiratli@hotmail.com)
-
+[![Email](https://img.shields.io/badge/Email-6C3EB8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:su_kiratli@hotmail.com)
