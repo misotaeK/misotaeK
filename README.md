@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! 
 
 I'm **Çisel**, a full-stack developer based in world
 
