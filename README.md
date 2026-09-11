@@ -33,11 +33,6 @@ Final-year Information Technology student at Eastern Mediterranean University.
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## GitHub Stats
-
-![Çisel's GitHub stats](https://github-readme-stats.vercel.app/api?username=misotaeK&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=misotaeK&layout=compact&theme=tokyonight)
 
 ## Connect With Me
 
